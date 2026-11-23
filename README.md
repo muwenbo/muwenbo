@@ -14,6 +14,11 @@ More at [viknox.com/en/tools](https://www.viknox.com/en/tools).
 #### Latest writing (mostly Chinese)
 
 <!-- BLOG-POST-LIST:START -->
+- [Agent 的计算服务外挂：华大 DCS Cloud 实测](https://muwenbo.github.io/professional/2026/10/28/bgi-dcs-cloud-for-agents.html)
+- [杀死那个生信人](https://muwenbo.github.io/professional/2026/10/27/killing-the-bioinformatician.html)
+- [给 AI 评级出考卷：ClinGen 专家评级全景图](https://muwenbo.github.io/professional/2026/10/22/clingen-expert-classification-landscape.html)
+- [遗传咨询里的技术活，我打包成了一个 AI 技能包](https://muwenbo.github.io/professional/2026/09/03/genetic-counseling-skill-pack.html)
+- [我替 AI 开源了一千万以内最好的&quot;日抛型&quot;家系图编辑器](https://muwenbo.github.io/professional/2026/08/03/disposable-pedigree-editor.html)
 <!-- BLOG-POST-LIST:END -->
 
 [All posts](https://muwenbo.github.io/blog/)
